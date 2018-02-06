@@ -1,4 +1,3 @@
-Un rectángulo de altura 120 píxeles, anchura 150 píxeles, con su vértice inferior izquierda en la posición (150,400)
 
 <figuras>
 	<figura  tipo="rectangulo">
@@ -11,27 +10,15 @@ Un rectángulo de altura 120 píxeles, anchura 150 píxeles, con su vértice inf
 		<posicion x="400" y="400"/>
 	</figura>
 	<figura tipo="linearecta">
-		<posicioninicial>
-
+		<posicioninicial x="270" y= "550"/>
+		<posicionfinal x="400" y="400"/>
 	</figura>	
 </figuras>
 
-<figuras>
-	<rectangulo>
-		<altura>120px</altura>
-		<anchura>150px</anchura>
-		<vertice>
-			<verticex>150</verticex>
-			<verticey>400</verticey>
-		</vertice>
-	</rectangulo>
-	<circulo>
 
 git status(mirar seguimiento)
 git add .(seguimiento de lo que vamos haciendo de toda la carpeta) 
 Lo que está en rojo no lo está siguiendo, lo que está en verde lo está siguiendo.
-
-git commit me abre el editor de texto
 git commit -m "Ejercicio 1 inventar xml" (Esto en mi repositorio local da por bueno los cambios, no lo sube)
 git push(sube los cambios al repositorio)
 git pul(del github me traigo todos los cambios que he hecho en mi repositorio, cuando llego a casa)
