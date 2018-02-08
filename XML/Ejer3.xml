@@ -1,0 +1,18 @@
+<Predicciondeltiempo>
+	<lugar>Dos Hermanas</lugar>
+	<fecha>25/10/2011</fecha>
+	<probabilidaddeprecipitacion>55%</probabilidaddeprecipitacion>
+	<estadodelcielo>Intervalos nubosos</estadodelcielo>
+	<direccionViento>Suroeste</direccionViento>
+	<velocidaddelviento>10 km/h</velocidaddelviento>
+	<temperatura Max="21ºC" Min= "10ºC"/>
+	<sensaciontermica>
+		<sensacionMax>21ºC</sensacionMax>
+		<sensacionMin>10ºC</sensacionMin>
+	</sensaciontermica>
+	<humedadtermica>
+		<humMax>90%</humMax>
+		<humMin>50%</humMin>
+	</humedadtermica>
+	<indiceultravioletaMax>3</indiceultravioletaMax>
+</Predicciondeltiempo>

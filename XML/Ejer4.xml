@@ -1,0 +1,15 @@
+<factura>
+	<codigo></codigo>
+	<f.emision></f.emision>
+	<datos dni="" nombre= "" direccion="" codigoPostal="" poblacion="" />
+	<producto>
+		<cantidad></cantidad>
+		<denominacion></denominacion>
+		<precio></precio>
+	</producto>
+	<iva></iva>
+	<descuento></descuento>
+
+</factura>
+
+Respuesta: No, guardando el importe total de la factura es suficiente.

@@ -1,0 +1,22 @@
+<Autopista>
+	<Evento1>
+		<señaldeaccidente></señaldeaccidente>
+		<puntokm>42200</puntokm>
+		<nombrevia>A-49</nombrevia>
+		<semtido>Huelva</semtido>
+		<cortedelavia>1 carril</cortedelavia>
+		<fechayhora></fechayhora>
+		<retencion>Sí</retencion>
+		<kmderetencion>8</kmderetencion>
+	</Evento1>
+
+	<Evento2>
+		<señalderetencion></señalderetencion>
+		<puntokm>550</puntokm>
+		<nombrevia>A-4</nombrevia>
+		<semtido>Sevilla</semtido>
+		<fechayhora></fechayhora>
+		<retencion>Sí</retencion>
+		<kmderetencion>3</kmderetencion>
+	</Evento2>
+</Autopista>

@@ -1,0 +1,22 @@
+<Biblioteca>
+	<libro>
+		<codISBN></codISBN>
+		<nombre>
+			<codigoEjemplar></codigoEjemplar>
+		</nombre>
+		<editorial></editorial>
+		<añoPublicacion></añoPublicacion>
+		<autor></autor>
+
+	</libro>
+	<prestemo>
+		<codISBN></codISBN>
+		<DNI></DNI>
+		<fechaprestamo></fechaprestamo>
+	<socio>
+		<DNI></DNI>
+		<nombre></nombre>
+		<direccion></direccion>
+	</socio>
+
+</Biblioteca>
